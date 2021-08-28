@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Sandeep-Yadav2/Github-Explorer/static/css/main.4a7ac39f.chunk.css",
+    "main.js": "/Sandeep-Yadav2/Github-Explorer/static/js/main.a8ce38e9.chunk.js",
+    "main.js.map": "/Sandeep-Yadav2/Github-Explorer/static/js/main.a8ce38e9.chunk.js.map",
+    "runtime-main.js": "/Sandeep-Yadav2/Github-Explorer/static/js/runtime-main.40251b07.js",
+    "runtime-main.js.map": "/Sandeep-Yadav2/Github-Explorer/static/js/runtime-main.40251b07.js.map",
+    "static/js/2.55bd9760.chunk.js": "/Sandeep-Yadav2/Github-Explorer/static/js/2.55bd9760.chunk.js",
+    "static/js/2.55bd9760.chunk.js.map": "/Sandeep-Yadav2/Github-Explorer/static/js/2.55bd9760.chunk.js.map",
+    "index.html": "/Sandeep-Yadav2/Github-Explorer/index.html",
+    "static/css/main.4a7ac39f.chunk.css.map": "/Sandeep-Yadav2/Github-Explorer/static/css/main.4a7ac39f.chunk.css.map",
+    "static/js/2.55bd9760.chunk.js.LICENSE.txt": "/Sandeep-Yadav2/Github-Explorer/static/js/2.55bd9760.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40251b07.js",
+    "static/js/2.55bd9760.chunk.js",
+    "static/css/main.4a7ac39f.chunk.css",
+    "static/js/main.a8ce38e9.chunk.js"
+  ]
+}
